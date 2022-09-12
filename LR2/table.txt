@@ -1,0 +1,40 @@
+Serbia 7438000 Belgrade Europe 1 5 history
+Thailand 63832000 Bangkok Asia 1 3 history
+Greece 11193000 Athena Europe 2 summer 33 25 3
+France 60707000 Paris Europe 3 skiing 1500
+Seychelles 85000 Victoria Africa 2 summer 31 27 9
+Australia 21015000 Canberra Australia 3 surfing 5274
+Russia 142100000 Moscow Europe 1 18 history
+Austria 8315000 Vienna Europe 3 skiing 1000
+Japan 127771000 Tokyo Asia 1 19 history
+Turkey 73885000 Ankara Asia 2 summer 33 23 5
+Nepal 28108000 Kathmandu Asia 3 climbing 45000
+Fiji 834000 Suva Australia 2 summer 30 28 18
+Cuba 11257000 Havana America 2 summer 32 30 13
+Croatia 4436000 Zagreb Europe 2 summer 30 25 3
+Hungary 10056000 Budapest Europe 1 7 art
+Israel 7180000 Jerusalem Asia 1 9 history
+China 1325716000 Beijing Asia 1 37 history
+Maldives 305000 Male Asia 3 surfing 1800
+Tunisia 10225000 Tunisia Africa 2 summer 33 26 5
+Egypt 75467000 Cairo Africa 1 6 history
+Spain 44879000 Madrid Europe 1 42 art
+Brazil 191601000 Brasilia America 2 summer 32 36 14
+USA 301621000 Washington America 3 surfing 5000
+Indonesia 225630000 Jakarta Asia 3 climbing 7000
+Kazahstan 15484000 Astana Asia 3 skiing 1200
+Switzerland 7550000 Bern Europe 3 skiing 2300
+Zimbabwe 13403000 Harare Africa 1 3 nature
+Tanzania 40432000 Dodoma Africa 3 climbing 7000
+Italy 59375000 Rome Europe 1 50 art
+Germany 82268000 Berlin Europe 1 43 history
+Bulgaria 7660000 Sofia Europe 3 skiing 600
+Syria 19891000 Damask Asia 1 6 history
+Algeria 33853000 Algeria Africa 1 6 history
+Kenya 37531000 Nairobi Africa 1 4 nature
+Peru 27898000 Lima America 1 8 history
+Czechia 10334000 Prague Europe 1 14 art
+Iraq 28993000 Bagdad Asia 1 5 history
+Romania 21547000 Bucharest Europe 3 skiing 480
+UK 60001000 London Europe 1 27 art
+Nicaragua 6466000 Managua America 3 climbing 500
